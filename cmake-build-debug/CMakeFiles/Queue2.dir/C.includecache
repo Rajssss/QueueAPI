@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Raj.S.DESKTOP-0MJOCRL/Documents/DSA_Lab/Home/Queue2/include/Queue.h
+stdio.h
+-
+stdlib.h
+-
+windows.h
+-
+
+C:/Users/Raj.S.DESKTOP-0MJOCRL/Documents/DSA_Lab/Home/Queue2/main.c
+include/Queue.h
+C:/Users/Raj.S.DESKTOP-0MJOCRL/Documents/DSA_Lab/Home/Queue2/include/Queue.h
+stdio.h
+-
+windows.h
+-
+
